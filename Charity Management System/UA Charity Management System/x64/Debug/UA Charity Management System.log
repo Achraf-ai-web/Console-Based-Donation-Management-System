@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\UA project\Charity Management System\UA Charity Management System\FileName.cpp(183,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\UA project\Charity Management System\UA Charity Management System\FileName.cpp(434,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\UA project\Charity Management System\UA Charity Management System\FileName.cpp(478,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  UA Charity Management System.vcxproj -> D:\UA project\Charity Management System\x64\Debug\UA Charity Management System.exe
